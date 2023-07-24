@@ -14,6 +14,7 @@ body,html{
     height: 100%;
     background-image: url(./Panchachuli_peaks\ perpect.jpeg);
     background-size: cover;
+    background-repeat: no-repeat;
     
 
 }
