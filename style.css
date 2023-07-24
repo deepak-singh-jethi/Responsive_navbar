@@ -13,7 +13,7 @@ body,html{
     width: 100%;
     height: 100%;
     background-image: url(./Panchachuli_peaks\ perpect.jpeg);
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     
 
